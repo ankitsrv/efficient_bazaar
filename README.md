@@ -14,5 +14,5 @@ efficient_bazaar_assignment
        Instructions To run
 
  1. Open terminal and Go to the directory where this ruby(.rb) file exists.
- 2. run $<ruby temp_code.rb> <enter>
+ 2. run $ruby temp_code.rb enter
  3. The output will be array of cheapest prices, expensive prices and cheapest prices for selective products
